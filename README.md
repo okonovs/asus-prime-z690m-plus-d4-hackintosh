@@ -8,7 +8,7 @@ An OpenCore build guide and sanitized EFI template from a real, daily-used Hacki
 
 | Component | Original build |
 |---|---|
-| Motherboard | **ASUS PRIME Z690M-PLUS D4** — model confirmed by the owner |
+| Motherboard | **ASUS PRIME Z690M-PLUS D4** |
 | CPU | Intel Core i9-12900K, 8 P-cores + 8 E-cores, 24 threads |
 | GPU | AMD Radeon RX 6950 XT, 16 GB; device-ID spoof required |
 | Memory | 32 GB: 4 × 8 GB Crucial Ballistix DDR4-2400 |
