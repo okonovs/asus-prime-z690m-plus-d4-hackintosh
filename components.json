@@ -1,0 +1,17 @@
+{
+  "OpenCore": "1.0.7",
+  "kexts": {
+    "CPUFriend.kext": "1.3.0",
+    "CPUFriendDataProvider.kext": "1.0.0",
+    "CpuTopologyRebuild.kext": "2.0.2",
+    "Lilu.kext": "1.7.2",
+    "NVMeFix.kext": "1.1.3",
+    "RestrictEvents.kext": "1.1.6",
+    "SMCProcessor.kext": "1.3.7",
+    "SMCSuperIO.kext": "1.3.7",
+    "USBToolBox.kext": "1.2.0",
+    "UTBMap.kext": "1.1",
+    "VirtualSMC.kext": "1.3.7",
+    "WhateverGreen.kext": "1.7.0"
+  }
+}

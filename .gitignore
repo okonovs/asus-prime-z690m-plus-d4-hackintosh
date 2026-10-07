@@ -1,0 +1,9 @@
+.DS_Store
+._*
+__MACOSX/
+*.log
+*.ioreg
+nvram.plist
+config-private.plist
+oldConfig.plist
+EFI-private/
